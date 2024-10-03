@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=Venom&color=auto&height=200&section=header&text= donghyeon's Github&fontSize=60&theme=tokyonight" /><br>
+  <img src="https://capsule-render.vercel.app/api?type=Venom&color=auto&height=200&section=header&text=donghyeon's&fontSize=60&theme=tokyonight" /><br>
 
   <h3>🌈 Stack</h3>
   <img src="https://img.shields.io/badge/java-blue?style=square&logo=java&logoColor=white">
