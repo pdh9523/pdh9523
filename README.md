@@ -32,7 +32,14 @@
 
   <br>
   <h3>✔️ Problem Solving</h3>
-    <a href="https://solved.ac/profile/pdh9523"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=pdh9523"></a><br>
+  <div style="display: flex;">
+    <a href="https://solved.ac/profile/pdh9523">
+      <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=pdh9523">
+    </a>
+    <a href="https://solved.ac/profile/pdh9523">
+      <img src="http://mazandi.herokuapp.com/api?handle=pdh9523&theme=warm"/>
+    </a>
+  </div>
   <br>
 
   <h3>📜 History</h3>
