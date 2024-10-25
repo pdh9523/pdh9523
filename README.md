@@ -27,7 +27,10 @@
   <h4>Now on Studying.. </h4>
   <img src="https://img.shields.io/badge/Nginx-009639?style=square&logo=nginx&logoColor=white">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=square&logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=square&logo=androidstudio&logoColor=white">
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=square&logo=jenkins&logoColor=white">
+  <br>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=square&logo=kubernetes&logoColor=white">
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=square&logo=apache-kafka&logoColor=white">
   <br>
 
   <br>
