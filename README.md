@@ -18,19 +18,22 @@
   <img src="https://img.shields.io/badge/MUI-007FFF?style=square&logo=mui&logoColor=white">
   <img src="https://img.shields.io/badge/TailWind-06B6D4?style=square&logo=tailwindcss&logoColor=white">
   <br>
-
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=square&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/Nginx-009639?style=square&logo=nginx&logoColor=white">
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=square&logo=jenkins&logoColor=white">
+  <br>
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=square&logo=prometheus&logoColor=white">
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=square&logo=grafana&logoColor=white">
+  
+  
   <h4>Sub Stack</h4>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=square&logo=kotlin&logoColor=white">
   <img src="https://img.shields.io/badge/Django-092E20?style=square&logo=django&logoColor=white">
   <br>
 
   <h4>Now on Studying.. </h4>
-  <img src="https://img.shields.io/badge/Nginx-009639?style=square&logo=nginx&logoColor=white">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=square&logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=square&logo=jenkins&logoColor=white">
-  <br>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=square&logo=kubernetes&logoColor=white">
   <img src="https://img.shields.io/badge/Kafka-231F20?style=square&logo=apache-kafka&logoColor=white">
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=square&logo=kubernetes&logoColor=white">
   <br>
 
   <br>
