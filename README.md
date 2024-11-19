@@ -15,9 +15,6 @@
   <img src="https://img.shields.io/badge/Maria%20DB-003545?style=square&logo=mariadb&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=square&logo=mysql&logoColor=white">
   <br>
-  <img src="https://img.shields.io/badge/MUI-007FFF?style=square&logo=mui&logoColor=white">
-  <img src="https://img.shields.io/badge/TailWind-06B6D4?style=square&logo=tailwindcss&logoColor=white">
-  <br>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=square&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/Nginx-009639?style=square&logo=nginx&logoColor=white">
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=square&logo=jenkins&logoColor=white">
