@@ -2,21 +2,15 @@
   <img src="https://capsule-render.vercel.app/api?type=Venom&color=auto&height=200&section=header&text=&fontSize=60&theme=tokyonight" /><br>
 
   <h3>🌈 Stack</h3>
-  <img src="https://img.shields.io/badge/java-blue?style=square&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/java-blue?style=square&logo=openjdk&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3776AB?style=square&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=square&logo=typescript&logoColor=white">
-  <br>
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=square&logo=SpringBoot&logoColor=white">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=square&logo=nextdotjs&logoColor=white">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=square&logo=react&logoColor=white">
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=square&logo=vuedotjs&logoColor=white">
   <br>
   <img src="https://img.shields.io/badge/Redis-FF4438?style=square&logo=redis&logoColor=white">
   <img src="https://img.shields.io/badge/Maria%20DB-003545?style=square&logo=mariadb&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=square&logo=mysql&logoColor=white">
   <br>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=square&logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/Nginx-009639?style=square&logo=nginx&logoColor=white">
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=square&logo=jenkins&logoColor=white">
   <br>
   <img src="https://img.shields.io/badge/Prometheus-E6522C?style=square&logo=prometheus&logoColor=white">
@@ -25,12 +19,12 @@
   
   <h4>Sub Stack</h4>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=square&logo=kotlin&logoColor=white">
-  <img src="https://img.shields.io/badge/Django-092E20?style=square&logo=django&logoColor=white">
   <br>
 
   <h4>Now on Studying.. </h4>
   <img src="https://img.shields.io/badge/Kafka-231F20?style=square&logo=apache-kafka&logoColor=white">
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=square&logo=kubernetes&logoColor=white">
+  <img src="https://img.shields.io/badge/Swift-F05138?style=square&logo=swift&logoColor=white">
   <br>
 
   <br>
