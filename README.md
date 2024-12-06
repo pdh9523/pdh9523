@@ -10,6 +10,7 @@
 
   <h4> BackEnd </h4>
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=square&logo=springboot&logoColor=white">
+  <img src="https://img.shields.io/badge/Django-092E20?style=square&logo=django&logoColor=white">
   <img src="https://img.shields.io/badge/FastApi-009688?style=square&logo=fastapi&logoColor=white">
   
   <br>
