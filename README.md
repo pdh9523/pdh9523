@@ -3,8 +3,8 @@
 
   <h3>🌈 Stack</h3>
   <h4> Language </h4>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=square&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/java-blue?style=square&logo=openjdk&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=square&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=square&logo=typescript&logoColor=white">
   <br>
 
