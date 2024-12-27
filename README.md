@@ -55,8 +55,8 @@
   <br>
 
   <h3>📜 History</h3>
-    <div>2024.09.21. 삼성 SW 역량테스트 pro등급 (B형) 취득</div>
-    <div>2024.01.02. ~ 삼성 청년 SW 아카데미 SSAFY</div>
+    <div>2024.09. 삼성 SW 역량테스트 pro등급 (B형) 취득</div>
+    <div>2024.01. - 2024.12. 삼성 청년 SW 아카데미 SSAFY</div>
     
   <h3>👇 Project</h3>
 
