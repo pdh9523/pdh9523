@@ -36,10 +36,8 @@
   
 
   <h4>Now on Studying.. </h4>
-  <img src="https://img.shields.io/badge/Kafka-231F20?style=square&logo=apache-kafka&logoColor=white">
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=square&logo=kubernetes&logoColor=white">
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=square&logo=kotlin&logoColor=white">
-  <img src="https://img.shields.io/badge/Swift-F05138?style=square&logo=swift&logoColor=white">
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=square&logo=go&logoColor=white">
+  <img src="https://img.shields.io/badge/DB-231F20?style=square&logo=&logoColor=white">
   <br>
 
   <br>
