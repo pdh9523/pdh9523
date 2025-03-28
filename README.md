@@ -37,7 +37,7 @@
   
 
   <h4>Now on Studying.. </h4>
-  <img src="https://img.shields.io/badge/DB-231F20?style=square&logo=&logoColor=white">
+  <img src="https://img.shields.io/badge/Gin-008ECF?style=square&logo=gin&logoColor=white">
   <br>
 
   <br>
