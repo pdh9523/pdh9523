@@ -55,7 +55,8 @@
 
   <h3>📜 History</h3>
     <div>2024.09. 삼성 SW 역량테스트 pro등급 (B형) 취득</div>
-    <div>2024.01. - 2024.12. 삼성 청년 SW 아카데미 SSAFY</div>
+    <div>2024.01. - 2024.12. 삼성 청년 SW 아카데미 SSAFY 11기</div>
+    <div>2025.04. - 현재. SW 마에스트로 16기 </div>
     
   <h3>👇 Project</h3>
 
