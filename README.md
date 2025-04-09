@@ -19,7 +19,7 @@
   <h4> DevOps </h4>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=square&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=square&logo=jenkins&logoColor=white">
-  <img src="https://img.shields.io/badge/Nginx?style=square&logo=nginx&logoColor=white">
+  <img src="https://img.shields.io/badge/Nginx-009639?style=square&logo=nginx&logoColor=white">
   <img src="https://img.shields.io/badge/Prometheus-E6522C?style=square&logo=prometheus&logoColor=white">
   <img src="https://img.shields.io/badge/Grafana-F46800?style=square&logo=grafana&logoColor=white">
   
