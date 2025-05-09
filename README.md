@@ -13,6 +13,7 @@
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=square&logo=springboot&logoColor=white">
   <img src="https://img.shields.io/badge/Django-092E20?style=square&logo=django&logoColor=white">
   <img src="https://img.shields.io/badge/FastApi-009688?style=square&logo=fastapi&logoColor=white">
+  <img src="https://img.shields.io/badge/Gin-008ECF?style=square&logo=gin&logoColor=white">
   
   <br>
 
@@ -38,7 +39,6 @@
   
 
   <h4>Now on Studying.. </h4>
-  <img src="https://img.shields.io/badge/Gin-008ECF?style=square&logo=gin&logoColor=white">
   <img src="https://img.shields.io/badge/Swift-F05138?style=square&logo=swift&logoColor=white">
   <br>
 
