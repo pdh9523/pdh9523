@@ -3,17 +3,16 @@
 
   <h3>🌈 Stack</h3>
   <h4> Language </h4>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=square&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/java-blue?style=square&logo=openjdk&logoColor=white">
   <img src="https://img.shields.io/badge/Go-00ADD8?style=square&logo=go&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=square&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=square&logo=typescript&logoColor=white">
   <br>
 
   <h4> BackEnd </h4>
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=square&logo=springboot&logoColor=white">
-  <img src="https://img.shields.io/badge/Django-092E20?style=square&logo=django&logoColor=white">
-  <img src="https://img.shields.io/badge/FastApi-009688?style=square&logo=fastapi&logoColor=white">
   <img src="https://img.shields.io/badge/Gin-008ECF?style=square&logo=gin&logoColor=white">
+  <img src="https://img.shields.io/badge/FastApi-009688?style=square&logo=fastapi&logoColor=white">
   
   <br>
 
@@ -25,21 +24,11 @@
   <img src="https://img.shields.io/badge/Grafana-F46800?style=square&logo=grafana&logoColor=white">
   
   <br>
-  
-  <h4> FrontEnd </h4>
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=square&logo=vue.js&logoColor=white">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=square&logo=next.js&logoColor=white">
-  <br>
 
   <h4> DB </h4>
   <img src="https://img.shields.io/badge/Redis-FF4438?style=square&logo=redis&logoColor=white">
   <img src="https://img.shields.io/badge/Maria%20DB-003545?style=square&logo=mariadb&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=square&logo=mysql&logoColor=white">
-  <br>
-  
-
-  <h4>Now on Studying.. </h4>
-  <img src="https://img.shields.io/badge/Swift-F05138?style=square&logo=swift&logoColor=white">
   <br>
 
   <br>
