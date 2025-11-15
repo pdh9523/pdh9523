@@ -27,7 +27,6 @@
 
   <h4> DB </h4>
   <img src="https://img.shields.io/badge/Redis-FF4438?style=square&logo=redis&logoColor=white">
-  <img src="https://img.shields.io/badge/Maria%20DB-003545?style=square&logo=mariadb&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=square&logo=mysql&logoColor=white">
   <br>
 
