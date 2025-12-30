@@ -6,7 +6,6 @@
   <img src="https://img.shields.io/badge/java-blue?style=square&logo=openjdk&logoColor=white">
   <img src="https://img.shields.io/badge/Go-00ADD8?style=square&logo=go&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3776AB?style=square&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=square&logo=typescript&logoColor=white">
   <br>
 
   <h4> BackEnd </h4>
@@ -27,7 +26,7 @@
 
   <h4> DB </h4>
   <img src="https://img.shields.io/badge/Redis-FF4438?style=square&logo=redis&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=square&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/postgreSQL-4169E1?style=square&logo=postgresql&logoColor=white">
   <br>
 
   <br>
