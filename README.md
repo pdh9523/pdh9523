@@ -29,18 +29,6 @@
   <img src="https://img.shields.io/badge/postgreSQL-4169E1?style=square&logo=postgresql&logoColor=white">
   <br>
 
-  <br>
-  <h3>✔️ Problem Solving</h3>
-  <div style="display: flex;">
-    <a href="https://solved.ac/profile/pdh9523">
-      <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=pdh9523">
-    </a>
-    <a href="https://solved.ac/profile/pdh9523">
-      <img src="http://mazandi.herokuapp.com/api?handle=pdh9523&theme=warm"/>
-    </a>
-  </div>
-  <br>
-
   <h3>📜 History</h3>
     <div>2024.01. - 2024.12. 삼성 청년 SW 아카데미 SSAFY 11기</div>
     <div>2024.09. 삼성 SW 역량테스트 pro등급 (B형) 취득</div>
